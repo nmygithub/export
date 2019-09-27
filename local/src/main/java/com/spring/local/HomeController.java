@@ -35,6 +35,11 @@ public class HomeController {
 		
 		System.out.println("HTML");
 		
+		System.out.println("노는게 제일 좋아");
+		
+		System.out.println("친구들 모여라");
+		
+		
 		return "home";
 	}
 	
