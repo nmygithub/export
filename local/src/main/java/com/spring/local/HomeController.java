@@ -31,6 +31,10 @@ public class HomeController {
 		
 		System.out.println("CSS");
 		
+		System.out.println("HTML");
+		
+		System.out.println("HTML");
+		
 		return "home";
 	}
 	
