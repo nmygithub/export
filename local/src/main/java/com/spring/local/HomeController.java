@@ -29,6 +29,8 @@ public class HomeController {
 		
 		System.out.println("Servlet");
 		
+		System.out.println("CSS");
+		
 		return "home";
 	}
 	
