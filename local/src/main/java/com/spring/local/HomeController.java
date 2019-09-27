@@ -27,6 +27,8 @@ public class HomeController {
 	
 		System.out.println("Hello ABCKDKFJHSFKASFKFL나러니ㅏㄹ머니ㅏ런이ㅏ");
 		
+		System.out.println("Servlet");
+		
 		return "home";
 	}
 	
